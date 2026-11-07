@@ -30,7 +30,13 @@ Maple is a desktop application I designed and built from the ground up: an Elect
 
 ## `> s.a.d.i.e.` *(in development)*
 
-**Sprite Animation, Deformation & In-betweening Editor.** A second application on the Maple architecture, focused on procedural character animation: skeletal rigging with polygon binding and joint constraints, a timeline editor, a live bridge into the Godot editor, and motion extraction from reference sheets.
+**Sprite Animation, Deformation & In-betweening Editor.** The next generation of the Maple architecture, built for character animation.
+
+<p align="center"><img src="assets/sadie-visual-editor.jpg" alt="S.A.D.I.E. Visual Editor rigging a quadruped alien with bones, polygons and joint limits beside the agent terminal" width="85%"></p>
+
+S.A.D.I.E. runs on the same game-dev agent architecture as Maple, pushed further. Advanced memory and learning let it study reference motion, keep every character and rig on record, and get sharper with each project. It's more powerful, more versatile, and has a bigger toolkit: a visual editor for skeletal rigging with polygon binding and joint constraints, a timeline, a live bridge into the Godot editor, motion learning from reference sheets, and TexturePacker export straight into the game. All of it lives in an upgraded CRT workstation with a split-view workspace and refined graphics.
+
+**[S.A.D.I.E. releases →](https://github.com/jddominick/Animation-Studio/releases/latest)**
 
 ## `> last_colony`
 
