@@ -28,13 +28,13 @@ Maple is a desktop application I designed and built from the ground up: an Elect
 
 **[Maple Studios releases →](https://github.com/jddominick/Maple-Studios/releases/latest)**
 
-## `> animation_studio` *(in development)*
+## `> s.a.d.i.e.` *(in development)*
 
-A second application on the Maple architecture, focused on procedural character animation: skeletal rigging with polygon binding and joint constraints, a timeline editor, a live bridge into the Godot editor, and motion extraction from reference sheets.
+**Sprite Animation, Deformation & In-betweening Editor.** A second application on the Maple architecture, focused on procedural character animation: skeletal rigging with polygon binding and joint constraints, a timeline editor, a live bridge into the Godot editor, and motion extraction from reference sheets.
 
 ## `> last_colony`
 
-A science-fiction game in Godot, and the production testbed for Maple and Animation Studio.
+A science-fiction game in Godot, and the production testbed for Maple and S.A.D.I.E.
 
 ---
 
