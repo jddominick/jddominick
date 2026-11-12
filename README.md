@@ -2,9 +2,9 @@
 
 ### Jesse
 
-Tool builder and systems developer, and the developer behind **Maple Studios**. I design agent architectures, build the tools around them, and use the most modern technology I can get my hands on to make science fiction a little more real each day.
+Maple Studios is where I make things and tinker across code, games, art, writing, and music.
 
-Science guy. Sci-fi lover. Bringing science fiction to reality one line of code at a time.
+I built Last Colony with help from two tools I created along the way: Maple, a game development assistant, and Sadie, an animation app. I build apps and agent systems that make it easier to create a game, even if it’s your first. Their interfaces draw on retro computing and the simplicity of ’80s science fiction.
 
 ---
 
